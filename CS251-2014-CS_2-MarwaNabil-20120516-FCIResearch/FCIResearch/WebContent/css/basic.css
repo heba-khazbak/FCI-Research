@@ -1,0 +1,47 @@
+html
+{
+   
+}
+
+body
+{
+    
+    border: 10px solid white;
+    background-color: lightGray;
+    margin-left: 145px;
+    margin-right: 145px;
+    background-image: url(images/back2.jpg); 
+    height: auto;
+}
+
+.cont 
+{
+    background-color: cornsilk;
+   height: auto;
+}
+
+
+p {
+    text-align: left;
+}
+
+.Header1 {
+	position:relative;
+	width:100%;
+    height: 72px;
+    background-color: grey; 
+    background-image: url(images/People.png);
+    
+}
+.space
+{
+    height: 100px;
+}
+
+.Header {
+	position:relative;
+	width:100%;
+    height: 220px;
+	background-color: DarkSlateGray ;
+}
+

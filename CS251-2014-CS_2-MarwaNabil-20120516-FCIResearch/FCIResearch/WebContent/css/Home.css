@@ -1,0 +1,107 @@
+html
+{
+   
+}
+
+body
+{
+    
+    border: 10px solid white;
+    background-color: lightGray;
+    margin-left: 145px;
+    margin-right: 145px;
+    background-image: url(images/back2.jpg); 
+    height: auto;
+}
+
+.cont 
+{
+    background-color: cornsilk;
+    height: auto;
+}
+
+
+p {
+    text-align: left;
+}
+
+.Header1 {
+	position:relative;
+	width:100%;
+    height: 72px;
+    background-color: grey; 
+    background-image: url(images/People.png);
+    
+}
+
+
+.Header {
+	position:relative;
+	width:100%;
+    height: 220px;
+	background-color: DarkSlateGray ;
+}
+
+
+.Footer
+{
+    position: relative;
+    background-color: DarkSlateGray;
+    width:100%;
+    height: 25px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.Form
+{
+    font-family: sans-serif, fantasy;
+    font-size: 100%;
+    position: relative;
+    margin-top: 2px;
+    margin-left: 400px;
+    text-align: left;
+    font-weight: bold;
+    font-style: oblique;
+    height: 400px;
+    padding-top: 45px;   
+}
+.space
+{
+    height: 100px;
+}
+
+#Button
+{
+    border-radius: 5px;
+    border-style: groove;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right:5px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    background: wheat; /* this is a green */
+    font-size: 140%;
+    margin-top: 10px;
+    margin-left: 920px;
+}
+
+.menu
+{
+    background-color: DarkSlateGray;
+    padding: 20px;
+    border-style: solid;
+     border-width : 4px 4px 4px 4px;
+    border-color: wheat;
+ 
+}
+
+.links {
+  border-style: groove;
+  border-width : 1px 4px 4px 1px;
+  text-decoration : none;
+  padding : 7px;
+    margin: 15px;
+  border-color: wheat ;    background-color: PaleGoldenRod ;
+}
+a:hover { border-color: #ccc; }
